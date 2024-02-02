@@ -302,4 +302,7 @@ option {
   input {
     font-size: 22px;
   }
+  select {
+    text-indent: 100px;
+  }
 }
