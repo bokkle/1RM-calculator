@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/1RM-calculator/static/css/main.8b8d4b00.css",
+    "main.js": "/1RM-calculator/static/js/main.167fcbd3.js",
+    "static/media/cyber-gym.gif": "/1RM-calculator/static/media/cyber-gym.f1c12daff1ef4d470f3e.gif",
+    "index.html": "/1RM-calculator/index.html",
+    "main.8b8d4b00.css.map": "/1RM-calculator/static/css/main.8b8d4b00.css.map",
+    "main.167fcbd3.js.map": "/1RM-calculator/static/js/main.167fcbd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8d4b00.css",
+    "static/js/main.167fcbd3.js"
+  ]
+}
