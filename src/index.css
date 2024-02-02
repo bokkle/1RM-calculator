@@ -5,7 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
-  text-align: center !important;
+  /* text-align: center !important; */
 }
 
 body {
@@ -79,6 +79,10 @@ input {
   border-bottom: 3px solid #6b6262;
   text-align: center !important;
   text-shadow: 0 0 5px black;
+}
+
+select {
+  text-align-last: center;
 }
 
 select:focus,
@@ -294,7 +298,8 @@ option {
   .calcs {
     gap: 2.5rem;
   }
-  select, input {
+  select,
+  input {
     font-size: 22px;
   }
 }
