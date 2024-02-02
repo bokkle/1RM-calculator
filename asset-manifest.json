@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/1RM-calculator/static/css/main.1853dcce.css",
+    "main.css": "/1RM-calculator/static/css/main.cafa436c.css",
     "main.js": "/1RM-calculator/static/js/main.8fbb378b.js",
     "static/media/cyber-gym.gif": "/1RM-calculator/static/media/cyber-gym.f1c12daff1ef4d470f3e.gif",
     "index.html": "/1RM-calculator/index.html",
-    "main.1853dcce.css.map": "/1RM-calculator/static/css/main.1853dcce.css.map",
+    "main.cafa436c.css.map": "/1RM-calculator/static/css/main.cafa436c.css.map",
     "main.8fbb378b.js.map": "/1RM-calculator/static/js/main.8fbb378b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1853dcce.css",
+    "static/css/main.cafa436c.css",
     "static/js/main.8fbb378b.js"
   ]
 }
