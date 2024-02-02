@@ -1,10 +1,10 @@
 const SelectLift = ({ onHandleSetLift, lift }) => {
   return (
-    <div>
+    <div style={{ textAlign: "center" }}>
       <select
         onChange={(e) => onHandleSetLift(e)}
         value={lift}
-        style={{ textAlign: "center" }}
+        style={{ margin: "auto" }}
       >
         <option value="" disabled hidden>
           Select Exercise
